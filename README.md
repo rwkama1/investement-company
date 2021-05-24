@@ -1,4 +1,4 @@
-# Internet Booth
+# Investement Company
 
 ## Description
 
