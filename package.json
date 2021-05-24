@@ -1,0 +1,16 @@
+{
+  "name": "investement-company",
+  "version": "1.0.0",
+  "description":"Calculate percentage invested in a company",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/investement-company"
+  },
+ 
+  "keywords": ["js","javascript","calculation","total","investement","company"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
